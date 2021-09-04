@@ -1,0 +1,53 @@
+.card img {
+  height: 90%;
+  width: 70%;
+  /* background: red; */
+  align-items: center;
+}
+.card {
+  padding: 10px;
+  align-items: center;
+  border: none;
+}
+p {
+  align-items: center;
+}
+span {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+button {
+  margin: 4px;
+  padding: 2px;
+  border: none;
+  font-size: 2rem;
+  border-radius: 50%;
+  height: 50px;
+  width: 50px;
+  align-items: center;
+}
+.dec-btn {
+  background: red;
+}
+.inc-btn {
+  background: green;
+}
+/* table{
+  border: 1px solid black;
+} */
+th {
+  text-align: center;
+}
+td,
+th {
+  padding: 15px;
+  text-align: left;
+  height: 30px;
+}
+.table-div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
